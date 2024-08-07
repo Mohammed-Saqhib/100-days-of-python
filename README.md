@@ -1,5 +1,5 @@
 # 100-days-of-python
-<p>The Complete Python Pro Bootcamp  2024</p> 
+<p>The Complete Python </p> 
 <br>
 Day-1:-band-name-generator-start
 <br>
